@@ -1,0 +1,17 @@
+{
+  "name": "animekita",
+  "version": "1.0.0",
+  "description": "Streaming Anime Sub Indo Gratis",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AnimeKita",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
