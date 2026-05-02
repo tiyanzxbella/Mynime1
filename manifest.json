@@ -1,0 +1,18 @@
+{
+  "name": "AnimeKita",
+  "short_name": "AnimeKita",
+  "description": "Streaming Anime Sub Indo Gratis",
+  "theme_color": "#ff6b6b",
+  "background_color": "#0a0a14",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://cloud.tiyan.biz.id/nD6z.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
