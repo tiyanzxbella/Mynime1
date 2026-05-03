@@ -1,0 +1,8 @@
+{
+  "appId": "com.animekita.app",
+  "appName": "AnimeKita",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
